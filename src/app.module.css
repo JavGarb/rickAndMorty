@@ -1,0 +1,20 @@
+
+.App {
+  background-image: url('../img/fondo1.jpg');
+  background-color: grey;
+  background-blend-mode: multiply;
+  background-position: 20% center;
+  background-size:100vw 100vh;
+  padding-top: 40px;
+
+}
+.primera{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+
+
+
