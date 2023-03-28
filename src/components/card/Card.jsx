@@ -30,7 +30,7 @@ function Card(props) {
             setIsFav(true);
          }
       });
-   }, [props.myFavorites]);
+   }, []);
 
    return (
       <div className={styles.card}>
